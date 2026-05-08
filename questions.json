@@ -1,0 +1,219 @@
+[
+
+  {
+    "id_lecon": 1,
+    "enonce": "Quelle phase d'une éruption se caractérise par des séismes et la montée du magma ?",
+    "reponse_correcte": "Phase pré-éruptive",
+    "options": ["Phase pré-éruptive", "Phase éruptive", "Phase post-éruptive", "Phase de repos"],
+    "explication": "La phase pré-éruptive annonce l'éruption : la montée du magma sous pression fait vibrer le sol, ce qui provoque des microséismes détectés par les volcanologues."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "Le Mont Cameroun est un exemple de quel type de dynamisme volcanique ?",
+    "reponse_correcte": "Effusif (calme)",
+    "options": ["Explosif", "Effusif (calme)", "Intermédiaire", "Extinct"],
+    "explication": "Le Mont Cameroun produit des coulées de lave fluides qui s'écoulent le long des pentes. C'est un volcan rouge typique du dynamisme effusif."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "Dans un dynamisme explosif, comment est la lave ?",
+    "reponse_correcte": "Très visqueuse",
+    "options": ["Très fluide", "Très visqueuse", "Liquide", "Solide d'emblée"],
+    "explication": "Dans un volcanisme explosif, la lave est épaisse (visqueuse). Elle s'écoule mal et bouche la cheminée, ce qui provoque des explosions violentes."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "Quel est le principal danger d'une éruption explosive pour les populations ?",
+    "reponse_correcte": "Nuées ardentes",
+    "options": ["Coulées de lave", "Nuées ardentes", "Le bruit", "La pluie"],
+    "explication": "Les nuées ardentes sont des nuages de gaz et de cendres brûlantes qui dévalent les pentes à très grande vitesse, détruisant tout sur leur passage."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "La roche issue du refroidissement rapide de la lave en surface est une :",
+    "reponse_correcte": "Roche volcanique",
+    "options": ["Roche volcanique", "Roche sédimentaire", "Roche métamorphique", "Roche plutonique"],
+    "explication": "Le refroidissement rapide de la lave au contact de l'air ou de l'eau empêche les cristaux de grossir, formant ainsi une roche volcanique comme le basalte."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "Quelle phase suit immédiatement l'arrêt des émissions de lave ?",
+    "reponse_correcte": "Phase post-éruptive",
+    "options": ["Phase pré-éruptive", "Phase d'alerte", "Phase post-éruptive", "Phase de séisme"],
+    "explication": "Après l'éruption, on entre en phase post-éruptive. On peut encore observer des fumerolles (émissions de gaz) ou des sources thermales."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "Où le magma est-il stocké sous le volcan ?",
+    "reponse_correcte": "Chambre magmatique",
+    "options": ["Cratère", "Cheminée", "Chambre magmatique", "Dôme"],
+    "explication": "Le magma séjourne dans une chambre magmatique située à plusieurs kilomètres de profondeur avant de remonter par la cheminée."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "Le moteur de la montée du magma vers la surface est :",
+    "reponse_correcte": "La pression des gaz",
+    "options": ["Le vent", "La pression des gaz", "L'eau de pluie", "Le soleil"],
+    "explication": "Ce sont les gaz dissous dans le magma qui, en reprenant leur forme gazeuse, poussent le magma vers le haut, comme le gaz dans une bouteille de soda secouée."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "Le volcanisme est une manifestation de :",
+    "reponse_correcte": "L'énergie interne",
+    "options": ["L'énergie solaire", "L'énergie interne", "L'énergie éolienne", "L'énergie marémotrice"],
+    "explication": "Le volcanisme prouve que la Terre possède une énergie interne (chaleur) qui provoque les mouvements de matière et l'activité géologique."
+  },
+  {
+    "id_lecon": 1,
+    "enonce": "L'ouverture au sommet d'un volcan s'appelle :",
+    "reponse_correcte": "Le cratère",
+    "options": ["La faille", "Le cratère", "Le dôme", "La cheminée"],
+    "explication": "Le cratère est l'entonnoir par lequel sortent les produits volcaniques (lave, gaz, cendres). Ne pas confondre avec la cheminée qui est le conduit."
+  },
+
+
+  
+  {
+    "id_lecon": 2,
+    "enonce": "Comment appelle-t-on les coulées de boue formées par le mélange d'eau et de débris volcaniques qui dévalent les vallées ?",
+    "reponse_correcte": "Lahars",
+    "options": ["Nuées ardentes", "Lahars", "Tsunamis", "Scories"],
+    "explication": "Les lahars sont des coulées de boue volcanique mêlée d'eau qui se déplacent rapidement dans les vallées et les rivières[cite: 23, 49]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Lequel de ces dangers est classé comme un risque volcanique indirect ?",
+    "reponse_correcte": "Gaz toxiques",
+    "options": ["Coulées de lave", "Projections de bombes", "Gaz toxiques", "Lapilli"],
+    "explication": "Les gaz (SO2, CO2) sont des risques indirects car ils sont invisibles, peuvent être mortels et polluent l'air et l'eau à distance[cite: 19, 25]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Quel appareil permet aux volcanologues de détecter les tremblements de terre annonçant une éruption ?",
+    "reponse_correcte": "Sismographes",
+    "options": ["Inclinomètres", "Capteurs de gaz", "Sismographes", "Satellites"],
+    "explication": "Les sismographes détectent les tremblements de terre provoqués par le mouvement du magma avant l'éruption[cite: 36, 37, 38]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "La 'Ceinture de feu du Pacifique' concentre quel pourcentage des volcans actifs du monde ?",
+    "reponse_correcte": "75%",
+    "options": ["25%", "50%", "75%", "100%"],
+    "explication": "Cette zone est la plus active du globe et regroupe 75% des volcans actifs mondiaux[cite: 30]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Que doit-on faire pour protéger ses voies respiratoires contre les cendres et les gaz ?",
+    "reponse_correcte": "Utiliser un masque ou un tissu humide",
+    "options": ["Rester dans les vallées", "Utiliser un masque ou un tissu humide", "Ouvrir toutes les fenêtres", "Ne pas évacuer"],
+    "explication": "Il faut se protéger le nez et la bouche avec un masque ou un tissu humide pour éviter d'inhaler des cendres nuisibles[cite: 44, 45]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Quel outil mesure le soulèvement ou le gonflement du sol du volcan ?",
+    "reponse_correcte": "Inclinomètres",
+    "options": ["Drones", "Pluviomètres", "Inclinomètres", "Baromètres"],
+    "explication": "L'inclinomètre mesure le soulèvement du volcan, ce qui indique que le magma s'accumule sous la surface[cite: 40]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Pourquoi est-il dangereux de rester dans les vallées lors d'une éruption ?",
+    "reponse_correcte": "À cause du risque de lahars",
+    "options": ["À cause du vent", "À cause du risque de lahars", "À cause de la pluie", "À cause de l'altitude"],
+    "explication": "Les vallées sont les zones de passage privilégiées des lahars (coulées de boue)[cite: 23, 49]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Quels gaz toxiques invisibles peuvent être surveillés pour prévoir une éruption ?",
+    "reponse_correcte": "SO2 et CO2",
+    "options": ["Oxygène et Azote", "SO2 et CO2", "Hélium", "Vapeur d'eau pure"],
+    "explication": "Le dioxyde de soufre (SO2) et le dioxyde de carbone (CO2) sont des indicateurs précieux pour la surveillance[cite: 25, 41]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Le Cameroun est un exemple de quelle structure volcanique ?",
+    "reponse_correcte": "Points chauds (hotspots)",
+    "options": ["Dorsales océaniques", "Points chauds (hotspots)", "Zones de subduction", "Failles"],
+    "explication": "Le Cameroun possède des volcans de 'points chauds', isolés au-dessus de panaches mantelliques[cite: 32]."
+  },
+  {
+    "id_lecon": 2,
+    "enonce": "Lequel de ces acteurs assure la surveillance permanente et l'alerte précoce ?",
+    "reponse_correcte": "Observatoires volcanologiques",
+    "options": ["Écoles", "Observatoires volcanologiques", "Mairies", "Bibliothèques"],
+    "explication": "Les observatoires surveillent le volcan 24h/24 pour donner l'alerte dès les premiers signes[cite: 52]."
+  },
+
+  
+  {
+    "id_lecon": 3,
+    "enonce": "Qu'est-ce qu'un fossile ?",
+    "reponse_correcte": "Des restes ou empreintes d'organismes conservés dans les roches",
+    "options": ["Des restes ou empreintes d'organismes conservés dans les roches", "Des roches formées par les volcans", "Des organismes vivants au fond des océans", "Des minéraux précieux comme le diamant"],
+    "explication": "Les fossiles sont les traces (coquilles, os, empreintes) d'êtres vivants ayant vécu dans le passé, conservées dans les roches sédimentaires."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Lequel de ces éléments est un exemple d'énergie fossile ?",
+    "reponse_correcte": "Le charbon",
+    "options": ["Le soleil", "Le vent", "Le charbon", "L'eau"],
+    "explication": "Le charbon, le pétrole et le gaz naturel sont les trois principaux types d'énergies fossiles issus de la décomposition de matières organiques."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "À partir de quel élément se forme principalement le pétrole ?",
+    "reponse_correcte": "Le plancton marin",
+    "options": ["Le bois des forêts", "Le plancton marin", "La lave des volcans", "Le sable du désert"],
+    "explication": "Le pétrole provient de la décomposition du plancton (micro-organismes marins) accumulé au fond des mers sur des millions d'années."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Combien de temps faut-il environ pour que le pétrole se forme ?",
+    "reponse_correcte": "Des millions d'années",
+    "options": ["Quelques années", "Plusieurs siècles", "Des milliers d'années", "Des millions d'années"],
+    "explication": "La formation des énergies fossiles est un processus géologique extrêmement lent qui nécessite des millions d'années."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Comment appelle-t-on l'opération de transformation du pétrole brut en carburant ?",
+    "reponse_correcte": "Le raffinage",
+    "options": ["Le forage", "Le raffinage", "La fossilisation", "La combustion"],
+    "explication": "Le pétrole brut doit être transporté vers une raffinerie pour être transformé en produits utilisables comme l'essence ou le kérosène."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Lequel de ces produits est issu de la pétrochimie ?",
+    "reponse_correcte": "Les plastiques",
+    "options": ["Le papier", "Les plastiques", "Le verre", "Le coton"],
+    "explication": "Outre les carburants, le pétrole est utilisé par l'industrie chimique pour fabriquer des plastiques et divers produits chimiques."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Pourquoi les énergies fossiles sont-elles dites 'non-renouvelables' ?",
+    "reponse_correcte": "Car elles s'épuisent plus vite qu'elles ne se forment",
+    "options": ["Car elles ne polluent pas", "Car elles sont gratuites", "Car elles s'épuisent plus vite qu'elles ne se forment", "Car on peut les fabriquer en usine"],
+    "explication": "Comme elles mettent des millions d'années à se former, leurs réserves sont limitées et finissent par s'épuiser face à notre consommation rapide."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Quel gaz responsable du réchauffement climatique est rejeté par la combustion des énergies fossiles ?",
+    "reponse_correcte": "Le CO2",
+    "options": ["L'oxygène", "Le CO2", "L'azote", "L'hélium"],
+    "explication": "La combustion du pétrole, du gaz et du charbon rejette du dioxyde de carbone (CO2), principal gaz à effet de serre."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Dans quel type de roches trouve-t-on généralement les fossiles ?",
+    "reponse_correcte": "Roches sédimentaires",
+    "options": ["Roches volcaniques", "Roches sédimentaires", "Roches plutoniques", "Roches magmatiques"],
+    "explication": "Les fossiles se forment et se conservent uniquement dans les roches sédimentaires, qui résultent de l'accumulation de dépôts au fil du temps."
+  },
+  {
+    "id_lecon": 3,
+    "enonce": "Quel est l'impact majeur de l'utilisation des fossiles sur le climat ?",
+    "reponse_correcte": "Le réchauffement climatique",
+    "options": ["Le refroidissement global", "Le réchauffement climatique", "L'augmentation des pluies pures", "La création d'ozone"],
+    "explication": "Le rejet massif de CO2 lors de l'utilisation des énergies fossiles perturbe l'équilibre thermique de la Terre et provoque un réchauffement du climat."
+  }
+  
+]
